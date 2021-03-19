@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: bidgitty/petclinicimage
+  repository: bidgitty/petclinic
   tag: latest
   pullPolicy: IfNotPresent
 
